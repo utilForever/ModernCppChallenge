@@ -12,6 +12,21 @@ C++ is one of the most widely-used programming languages and has applications in
 
 ### Math Problems
 
+- Sum of naturals divisible by 3 and 5
+- Greatest common divisor
+- Least common multiple
+- Largest prime smaller than given number
+- Sexy prime pairs
+- Abundant numbers
+- Amicable numbers
+- Armstrong numbers
+- Prime factors of a number
+- Gray code
+- Converting numerical values to Roman
+- Largest Collatz sequence
+- Computing the value of Pi
+- Validating ISBNs
+
 ### Language Features
 
 ### Strings and Regular Expressions
